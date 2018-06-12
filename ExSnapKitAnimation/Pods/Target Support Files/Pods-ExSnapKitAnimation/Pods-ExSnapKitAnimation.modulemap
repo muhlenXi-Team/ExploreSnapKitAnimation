@@ -1,0 +1,6 @@
+framework module Pods_ExSnapKitAnimation {
+  umbrella header "Pods-ExSnapKitAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
